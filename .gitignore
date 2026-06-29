@@ -22,4 +22,8 @@ target
 .gitignore
 .agents/
 .codegraph/
-docs/
+config.yaml
+docs/resource
+docs/BACKLOG.md
+docs/WORKFLOW.md
+docs/plans

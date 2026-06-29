@@ -1,0 +1,25 @@
+# Copy this file to config.yaml and adjust the path for your machine.
+everything:
+  path: C:\Program Files\Everything\es.exe
+
+repositories:
+  limit: 0 # 0 means unlimited
+
+commits:
+  show_details: true
+  fields:
+    author: true
+    email: true
+    time: true
+    lines: true
+    branches: true
+
+summary:
+  show_author_summary: true
+
+logs:
+  normal: true
+  warning: true
+  error: true
+  color: true
+  module_filter: null # Example: "git|everything"
